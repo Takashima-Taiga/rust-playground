@@ -1,0 +1,1 @@
+docker run -itd --rm --name learning_rust -v $(pwd -W)/app:/app rust
