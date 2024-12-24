@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "dustypomerleau.rust-syntax",
+    "fill-labs.dependi",
+    "rust-lang.rust-analyzer"
+  ]
+}
